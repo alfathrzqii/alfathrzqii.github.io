@@ -1,4 +1,14 @@
 body {
-  background-color: #f0f0f0;
+  background-color: #1a1a1a;
+  color: white;
   font-family: Arial, sans-serif;
+}
+
+h1, p {
+	text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
 }
